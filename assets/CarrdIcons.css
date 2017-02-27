@@ -1,3 +1,7 @@
+@font-face {
+    font-family:"CarrdIcons";
+    src: url("CarrdIcons.ttf") /* EOT file for IE */
+}
 .icon:before { font-family: 'CarrdIcons' !important; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 .icon-900:before { content: '\e900' }
 .icon-901:before { content: '\e901' }
